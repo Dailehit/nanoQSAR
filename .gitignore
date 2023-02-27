@@ -9,6 +9,7 @@ __pycache__/
 # dataset
 
 data/QSAR_XRD
+notebooks/data
 
 # Distribution / packaging
 .Python
